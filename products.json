@@ -1,0 +1,10 @@
+{
+        "id":1,
+        "nombre":"A10",
+        "marca":"Samsung",
+        "tipo":"Celular",
+        "descripcion":"assdsadasdsad",
+        "precio":10000,
+        "stock":3,
+        "img":""
+    }
